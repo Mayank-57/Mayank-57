@@ -1,7 +1,7 @@
 [![](https://visitcount.itsvg.in/api?id=Mayank-57&icon=5&color=1)](https://visitcount.itsvg.in)
 
 # 💫 About Me:
-🔭 I’m currently working on DSA Problems<br>👯 I’m looking to collaborate on some forntend projects<br>🤝 I’m looking for help with projetc<br>🌱 I’m currently learning JAVA<br>💬 Ask me about nothing because i am a very bad explainer<br>⚡ Fun fact - I am a lazy Programmer who never wants to code
+🔭 I’m currently working on DSA Problems<br>👯 I’m looking to collaborate on some Frontend Projects<br>🤝 I’m looking for help with Projects<br>🌱 I’m currently learning JAVA<br>💬 Ask me about nothing because i am a very bad explainer<br>⚡ Fun fact - I am a lazy programmer who never wants to code
 
 
 # 💻 Tech Stack:
